@@ -1,6 +1,6 @@
 Write a Python program to construct the following pattern
 
-* 
+`*` 
 * * 
 * * * 
 * * * * 
@@ -8,4 +8,4 @@ Write a Python program to construct the following pattern
 * * * * 
 * * * 
 * * 
-*
+*`
